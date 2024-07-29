@@ -1,4 +1,4 @@
-## Dicee
+## Quizzler
 
 A Simple Quiz app.
 
@@ -18,5 +18,5 @@ flutter run
 
 > Things Learned
 
--   Seperate App logic from UI
--   Alert Widget for popup
+- Seperate App logic from UI
+- Alert Widget for popup
